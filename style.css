@@ -15,3 +15,8 @@ img {
     border-radius: 2em;
     border: 5px solid #555;
 }
+
+th {
+    background-color: aquamarine;
+    font-weight: bold;
+}
